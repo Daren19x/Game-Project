@@ -1,2 +1,6 @@
 # Game-Project
-Coleman PhD Assignment
+======================
+
+HELLO GUYS I'M TRYING TO GITHUB.
+
+:neckbeard:
